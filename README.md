@@ -10,3 +10,6 @@ AI: TensorFlow, [詳しくは...](https://github.com/ietsuka/animal_div_ml)
 ## 補足
 - モデルの精度は66%と割と低い (要改善)  
 - 猿、猪、烏のみの判定 (要改善)  
+
+## 参考動画
+![Demo](https://github.com/ietsuka/animal-classification-app/douga.gif)
