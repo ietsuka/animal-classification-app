@@ -12,4 +12,4 @@ AI: TensorFlow, [詳しくは...](https://github.com/ietsuka/animal_div_ml)
 - 猿、猪、烏のみの判定 (要改善)  
 
 ## 参考動画
-![Demo](https://github.com/ietsuka/animal-classification-app/douga.gif)
+![Demo](douga.gif)
